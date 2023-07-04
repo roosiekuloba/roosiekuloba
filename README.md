@@ -1,6 +1,9 @@
-### Hi there 👋
-Welcome to my Github Account
+### Hi there 👋🏾
+Welcome to Rowzie's (pronounciation) Github Account
 
+🔭 I’m currently working on a mobile application to connect pet owners to pet service providers.
+🌱 I’m currently learning Mobile Applicatio Development & Operating Systems.
+👯 I’m looking to collaborate on projects that involve website creation. 
 <!--
 **roosiekuloba/roosiekuloba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
